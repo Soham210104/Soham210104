@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Ovhal</h1>
 <h3 align="center">Passionate Game Developer and Problem Solver from Pune</h3>
 
-<img align="right" alt="Coding" width="400" src="[[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a#file-programming-gif)](https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1719446400&v=beta&t=mHcxQ4fEF5Rs3ibIR6oGSYdW-UgywXbS1cTdTXFOuuk)](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham210104&label=Profile%20views&color=0e75b6&style=flat" alt="soham210104" /> </p>
 
