@@ -31,15 +31,18 @@
   - This is the Game Me and My teammate developed during the Game development Hackathon in which my contribution was of Game Programming and Game Mechanics.
   - **[Check it Out](https://github.com/Soham210104/GameJam)**
 
+---
+
 ### 🎮 GoblinSlayer | Unity Engine, C#  
   - This is the 2D top down Game made by me for Android.
   - **[Check it Out](https://github.com/Soham210104/GoblinSlayer)**
 
 
+---
 
 
-
-- 📫 How to reach me **ovhalsoham21@gmail.com**
+<br><br>
+## 📫 How to reach me **ovhalsoham21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
