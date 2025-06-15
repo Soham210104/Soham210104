@@ -43,8 +43,8 @@
 ---
 
 
-<br>
-📩 Reach Me At: [ovhalsoham21@gmail.com](mailto:ovhalsoham21@gmail.com) 
+
+### 📩 **Reach Me At**: [ovhalsoham21@gmail.com](mailto:ovhalsoham21@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
