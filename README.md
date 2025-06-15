@@ -41,8 +41,10 @@
 ---
 ## 📄 **Resume** 📌 **[View My Resume](https://drive.google.com/file/d/17vOx1Vksv0y0LqnFfPso_9joHQ3q6m1f/view?usp=sharing)**  
 ---
+
+
 <br>
-## 📫 How to reach me **ovhalsoham21@gmail.com**
+📩 Reach Me At: [ovhalsoham21@gmail.com](mailto:ovhalsoham21@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
