@@ -1,27 +1,38 @@
 <h1 align="center">Hi 👋, I'm Soham Ovhal</h1>
-<h3 align="center">Final-year Computer Science student with a passion for software development, problem-solving, and diverse technical knowledge.</h3>
+<h3 align="center">Aspiring Software Developer | B.Tech Final Year | Ex-Intern @ VSQUARE | C++,C#, Java, Python, Unity, MySQL</h3>
+<img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham210104&label=Profile%20views&color=0e75b6&style=flat" alt="soham210104" /> </p>
+## 🛠️ Projects
+---
 
-- 🌱 I’m currently learning **Web Development**
+### Classification of Arrhythmia Disease using Deep Learning Techniques | Python, Machine Learning, TensorFlow , NumPy , Pandas
+- Built a deep learning model to classify arrhythmias from ECG data, initially using CNN and later improved with 1D ResNet for higher accuracy and better pattern recognition in heart signals.
+- **[Check it Out](https://github.com/Soham210104/GC04Project)**
+---
 
-- 👯 I’m looking to collaborate on **Game Development Projects.**
+### 🔷 SmartMeasurer | Unity, C#, AR Foundation  
+ - It is an Android Mobile Application which helps directly to calculate the length of any object in real world.
+ - **[Check it Out](https://github.com/Soham210104/HeightMeasurer)**
+---
 
-- 🖥️ Checkout my portfolio <a href="https://ovhalsoham21.wixsite.com/portfolio">Portfolio</a>
+### 🟢 SnakeGame | HTML, CSS, JavaScript  
+  - This is the Website game made with the help of Web Technology just to brush up my Web Development skills and revise the concepts.
+  - **[Check it Out](https://github.com/Soham210104/SnakeGame)**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Soham210104](https://github.com/Soham210104)
+### 🎮 MerryMakerMadness | Unity Engine, C#  
+  - This is the Game Me and My teammate developed during the Game development Hackathon in which my contribution was of Game Programming and Game Mechanics.
+  - **[Check it Out](https://github.com/Soham210104/GameJam)**
 
-- 💬 Ask me about **Unity Engine,Game Development,DSA**
+
+
 
 - 📫 How to reach me **ovhalsoham21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soham ovhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham ovhal" height="30" width="40" /></a>
-<a href="https://instagram.com/somcasm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somcasm_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ovhalsoham21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ovhalsoham21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
