@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Soham Ovhal</h1>
 <h3 align="center">Aspiring Software Developer | B.Tech Final Year | Ex-Intern @ VSQUARE | C++,C#, Java, Python, Unity, MySQL</h3>
 
-<br>
-<img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+
+
+
 
 
 ## 🛠️ Projects
+<img align="right" alt="coding" width="400" 
+     src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 ---
 
-### Classification of Arrhythmia Disease using Deep Learning Techniques | Python, Machine Learning, TensorFlow , NumPy , Pandas
+### 🔷 Classification of Arrhythmia Disease using Deep Learning Techniques | Python, Machine Learning, TensorFlow , NumPy , Pandas
 - Built a deep learning model to classify arrhythmias from ECG data, initially using CNN and later improved with 1D ResNet for higher accuracy and better pattern recognition in heart signals.
 - **[Check it Out](https://github.com/Soham210104/GC04Project)**
 ---
@@ -26,6 +30,11 @@
 ### 🎮 MerryMakerMadness | Unity Engine, C#  
   - This is the Game Me and My teammate developed during the Game development Hackathon in which my contribution was of Game Programming and Game Mechanics.
   - **[Check it Out](https://github.com/Soham210104/GameJam)**
+
+### 🎮 GoblinSlayer | Unity Engine, C#  
+  - This is the 2D top down Game made by me for Android.
+  - **[Check it Out](https://github.com/Soham210104/GoblinSlayer)**
+
 
 
 
