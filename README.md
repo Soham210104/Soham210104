@@ -8,8 +8,6 @@
 
 
 ## 🛠️ Projects
-<img align="right" alt="coding" width="800" 
-     src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 ---
 
 ### 🔷 Classification of Arrhythmia Disease using Deep Learning Techniques | Python, Machine Learning, TensorFlow , NumPy , Pandas
