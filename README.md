@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Ovhal</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech Final Year | Ex-Intern @ VSQUARE | C++,C#, Java, Python, Unity, MySQL</h3>
+<h3 align="center">Aspiring Software Developer | B.Tech Final Year | Ex-Intern @ VSQUARE | C++,C#, Java, Python, SQL</h3>
 
 
 
