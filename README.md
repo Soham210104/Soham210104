@@ -10,6 +10,13 @@
 ## 🛠️ Projects
 ---
 
+### 🔷 MovieHunt | React.js, Tailwind CSS, TMDB API, Appwrite  
+- A responsive movie search app that fetches live movie data from TMDB API and tracks search analytics using Appwrite.
+- Developed using modular React components, secure API handling, and real-time search functionality.
+- **[Check it Out](https://github.com/Soham210104/MovieHunt)**
+
+---
+
 ### 🔷 Classification of Arrhythmia Disease using Deep Learning Techniques | Python, Machine Learning, TensorFlow , NumPy , Pandas
 - Built a deep learning model to classify arrhythmias from ECG data, initially using CNN and later improved with 1D ResNet for higher accuracy and better pattern recognition in heart signals.
 - **[Check it Out](https://github.com/Soham210104/GC04Project)**
