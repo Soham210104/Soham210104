@@ -9,7 +9,6 @@
 ## 🌟 About Me
 - 💻 Passionate about **Full-Stack Development, Game Development, and AI/ML**  
 - 🌱 Currently exploring **AR in Unity, Full-stack Development, and Deep Learning**  
-- 🎯 Goal: Become a **Top-level Software Developer & Game Programmer**  
 - ⚡ Fun Fact: I love **coding, gaming, and making innovative projects**
 
 ---
