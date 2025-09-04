@@ -9,7 +9,7 @@
 
 ## 🛠️ Projects
 ---
-### ASUS Driver Helper Tool
+### 🟢 ASUS Driver Helper Tool
 - ASUS Driver Helper Tool is a Windows desktop application that automates **Wi-Fi and Bluetooth driver management**. 
 - It detects missing or outdated drivers, compares versions, and enables one-click updates for seamless maintenance. 
 - Built with **C#**, **.NET**, **WinForms**, **PowerShell**, and **JSON**.
