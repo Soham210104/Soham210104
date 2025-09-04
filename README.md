@@ -1,73 +1,91 @@
 <h1 align="center">Hi 👋, I'm Soham Ovhal</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech Final Year | Ex-Intern @ VSQUARE | C++,C#, Java, Python, SQL</h3>
-
-
-
-
-
-
-
-## 🛠️ Projects
----
-### 🟢 ASUS Driver Helper Tool
-- ASUS Driver Helper Tool is a Windows desktop application that automates **Wi-Fi and Bluetooth driver management**. 
-- It detects missing or outdated drivers, compares versions, and enables one-click updates for seamless maintenance. 
-- Built with **C#**, **.NET**, **WinForms**, **PowerShell**, and **JSON**.
-- **[Check it Out](https://github.com/Soham210104/ASUSDriverHelper)**
-
----
-
-### 🔷 MovieHunt | React.js, Tailwind CSS, TMDB API, Appwrite  
-- A responsive movie search app that fetches live movie data from TMDB API and tracks search analytics using Appwrite.
-- Developed using modular React components, secure API handling, and real-time search functionality.
-- **[Check it Out](https://github.com/Soham210104/MovieHunt)**
-
----
-
-### 🔷 Classification of Arrhythmia Disease using Deep Learning Techniques | Python, Machine Learning, TensorFlow , NumPy , Pandas
-- Built a deep learning model to classify arrhythmias from ECG data, initially using CNN and later improved with 1D ResNet for higher accuracy and better pattern recognition in heart signals.
-- **[Check it Out](https://github.com/Soham210104/GC04Project)**
----
-
-### 🔷 SmartMeasurer | Unity, C#, AR Foundation  
- - It is an Android Mobile Application which helps directly to calculate the length of any object in real world.
- - **[Check it Out](https://github.com/Soham210104/HeightMeasurer)**
----
-
-### 🟢 SnakeGame | HTML, CSS, JavaScript  
-  - This is the Website game made with the help of Web Technology just to brush up my Web Development skills and revise the concepts.
-  - **[Check it Out](https://github.com/Soham210104/SnakeGame)**
----
-
-### 🎮 MerryMakerMadness | Unity Engine, C#  
-  - This is the Game Me and My teammate developed during the Game development Hackathon in which my contribution was of Game Programming and Game Mechanics.
-  - **[Check it Out](https://github.com/Soham210104/GameJam)**
-
----
-
-### 🎮 GoblinSlayer | Unity Engine, C#  
-  - This is the 2D top down Game made by me for Android.
-  - **[Check it Out](https://github.com/Soham210104/GoblinSlayer)**
-
-
----
-## 🔷 **Portfolio** 📌 **[View My Portfolio](https://portfolio-soham-ovhal-2101.vercel.app/)**  
----
-
-
-
-### 📩 **Reach Me At**: [ovhalsoham21@gmail.com](mailto:ovhalsoham21@gmail.com) 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soham ovhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham ovhal" height="30" width="40" /></a>
+<h3 align="center">Aspiring Software Developer | B.Tech Final Year | Ex-Intern @ VSQUARE</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham210104&show_icons=true&locale=en&layout=compact" alt="soham210104" /></p>
+## 🌟 About Me
+- 💻 Passionate about **Full-Stack Development, Game Development, and AI/ML**  
+- 🌱 Currently exploring **AR in Unity, Full-stack Development, and Deep Learning**  
+- 🎯 Goal: Become a **Top-level Software Developer & Game Programmer**  
+- ⚡ Fun Fact: I love **coding, gaming, and making innovative projects**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham210104&show_icons=true&locale=en" alt="soham210104" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham210104&" alt="soham210104" /></p>
+## 🛠️ Projects
+
+<div align="center">
+
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| **ASUS Driver Helper Tool** | Automates Wi-Fi & Bluetooth driver management | C#, .NET, WinForms, PowerShell, JSON | [GitHub](https://github.com/Soham210104/ASUSDriverHelper) |
+| **MovieHunt** | Movie search app with analytics using TMDB & Appwrite | React.js, Tailwind CSS, Appwrite | [GitHub](https://github.com/Soham210104/MovieHunt) |
+| **Arrhythmia Classification** | Deep learning model to classify heart arrhythmias | Python, TensorFlow, NumPy, Pandas | [GitHub](https://github.com/Soham210104/GC04Project) |
+| **SmartMeasurer** | AR app to measure real-world objects | Unity, C#, AR Foundation | [GitHub](https://github.com/Soham210104/HeightMeasurer) |
+| **SnakeGame** | Classic snake game for web | HTML, CSS, JavaScript | [GitHub](https://github.com/Soham210104/SnakeGame) |
+| **MerryMakerMadness** | Hackathon game project (game mechanics & programming) | Unity, C# | [GitHub](https://github.com/Soham210104/GameJam) |
+| **GoblinSlayer** | 2D top-down Android game | Unity, C# | [GitHub](https://github.com/Soham210104/GoblinSlayer) |
+
+</div>
+
+---
+
+## 🌐 Portfolio
+📌 **[View My Portfolio](https://portfolio-soham-ovhal-2101.vercel.app/)**  
+
+---
+
+## 📫 Contact Me
+<p>
+  <a href="mailto:ovhalsoham21@gmail.com"><img src="https://img.shields.io/badge/Email-ovhalsoham21@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/soham-ovhal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Soham%20Ovhal-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/soham210104" target="_blank"><img src="https://img.shields.io/badge/GitHub-Soham210104-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- Tools & Game Engines -->
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soham210104&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham210104&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham210104" alt="Streak Stats" />
+</p>
