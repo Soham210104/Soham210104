@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 - 💻 Passionate about **Full-Stack Development, Game Development, and AI/ML**  
-- 🌱 Currently exploring **AR in Unity, Full-stack Development, and Deep Learning**  
+- 🌱 Currently exploring **Full-stack Development, Game Development , AR/VR and Machine Learning**  
 - ⚡ Fun Fact: I love **coding, gaming, and making innovative projects**
 
 ---
