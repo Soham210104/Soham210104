@@ -19,6 +19,7 @@
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
+| **JotBoard – Notes App** | Full CRUD notes app with MongoDB, Express, React & Tailwind | MERN Stack, DaisyUI, Upstash Redis | [GitHub](https://github.com/Soham210104/JotBoard) |
 | **ASUS Driver Helper Tool** | Automates Wi-Fi & Bluetooth driver management | C#, .NET, WinForms, PowerShell, JSON | [GitHub](https://github.com/Soham210104/ASUSDriverHelper) |
 | **MovieHunt** | Movie search app with analytics using TMDB & Appwrite | React.js, Tailwind CSS, Appwrite | [GitHub](https://github.com/Soham210104/MovieHunt) |
 | **Arrhythmia Classification** | Deep learning model to classify heart arrhythmias | Python, TensorFlow, NumPy, Pandas | [GitHub](https://github.com/Soham210104/GC04Project) |
