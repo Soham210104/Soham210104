@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Ovhal</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech Computer Engineer Graduate | Ex-Intern @ VSQUARE</h3>
+<h3 align="center">Associate Software Engineer @Accenture | B.Tech Computer Engineer Graduate </h3>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 </p>
