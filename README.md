@@ -52,8 +52,9 @@
 </a>
 
 <a href="https://portfolio-soham-ovhal-2101.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Soham%20Ovhal-0A66C2?style=for-the-badge" />
 </a>
+
 
 </p>
 
