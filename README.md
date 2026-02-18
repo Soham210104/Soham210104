@@ -39,9 +39,22 @@
 
 ## 📫 Contact Me
 <p>
-  <a href="mailto:ovhalsoham21@gmail.com"><img src="https://img.shields.io/badge/Email-ovhalsoham21@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/soham-ovhal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Soham%20Ovhal-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/soham210104" target="_blank"><img src="https://img.shields.io/badge/GitHub-Soham210104-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:ovhalsoham21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ovhalsoham21@gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/soham-ovhal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Soham%20Ovhal-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/soham210104" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Soham210104-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://portfolio-soham-ovhal-2101.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel" />
+</a>
+
 </p>
 
 ---
